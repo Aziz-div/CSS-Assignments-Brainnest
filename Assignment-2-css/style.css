@@ -1,0 +1,17 @@
+.container {
+    background-color: #000000;
+    color: #ffff;
+}
+
+h1 {
+    background-color: brown;
+}
+h2 {
+    background-color: #0b5ebd;
+}
+h3 {
+    background-color: rgb(11, 189, 76);
+}
+h4 {
+    background-color: hsl(280, 100%, 29%);
+}

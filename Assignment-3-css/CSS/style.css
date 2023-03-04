@@ -1,0 +1,26 @@
+body{
+    background-color: #0e3b33;
+    color: aliceblue;
+    font-family: monospace, Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+    border: aliceblue solid 0.33em;
+    padding: 0.2em;
+    width: fit-content;
+    margin: auto;
+}
+
+
+img{
+    margin:0.5em auto;
+    width: 20%;
+    border: #007523 outset 0.23em;
+    border-radius: 0.85em;
+}
